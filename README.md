@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/profanniedayh/portfolio](https://github.com/profanniedayh/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/profanniedayh/portfolio](https://profanniedayh.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://github.com/profanniedayh/blog](https://github.com/profanniedayh/blog)
 
